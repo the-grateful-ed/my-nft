@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Maltipoo"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Mocha"
+    }
+  ],
+  "description": "OBEY",
+  "image": "ipfs://QmQcfCnKt4MDAWybKajrFGTd6benHxacrHY5CkLajKAoYK",
+  "name": "They Live"
+}
